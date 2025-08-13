@@ -2,6 +2,7 @@
 analysis.py
 Performs simple analysis on quarterly MRR growth and generates a plot.
 Author/Contact: 23f3002689@ds.study.iitm.ac.in
+why am i doin this
 """
 
 from decimal import Decimal, getcontext
